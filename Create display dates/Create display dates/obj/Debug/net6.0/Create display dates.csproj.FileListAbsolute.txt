@@ -1,0 +1,15 @@
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.csproj.AssemblyReference.cache
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.GeneratedMSBuildEditorConfig.editorconfig
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.AssemblyInfoInputs.cache
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.AssemblyInfo.cs
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.csproj.CoreCompileInputs.cache
+F:\Create display dates\Create display dates\bin\Debug\net6.0\Create display dates.exe
+F:\Create display dates\Create display dates\bin\Debug\net6.0\Create display dates.deps.json
+F:\Create display dates\Create display dates\bin\Debug\net6.0\Create display dates.runtimeconfig.json
+F:\Create display dates\Create display dates\bin\Debug\net6.0\Create display dates.dll
+F:\Create display dates\Create display dates\bin\Debug\net6.0\Create display dates.pdb
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.dll
+F:\Create display dates\Create display dates\obj\Debug\net6.0\refint\Create display dates.dll
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.pdb
+F:\Create display dates\Create display dates\obj\Debug\net6.0\Create display dates.genruntimeconfig.cache
+F:\Create display dates\Create display dates\obj\Debug\net6.0\ref\Create display dates.dll
